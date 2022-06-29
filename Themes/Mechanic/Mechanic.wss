@@ -1,0 +1,18 @@
+[WORKSHELF]
+ClockSoundFolder=C:\WINUTIL\NextStart\Themes\Mechanic\
+ClockSoundThemeName=Mechanic
+ClockSoundThemeAuthor=Winstep Software Technologies
+SoundFx00=C:\WINUTIL\NextStart\Themes\Mechanic\Collapse.wav
+SoundFx01=C:\WINUTIL\NextStart\Themes\Mechanic\uncollapse.wav
+SoundFx02=C:\WINUTIL\NextStart\Themes\Mechanic\Switch.wav
+SoundFx03=
+SoundFx04=
+SoundFx05=
+SoundFx06=
+SoundFx07=C:\WINUTIL\NextStart\Themes\Mechanic\Setup.wav
+SoundFx08=C:\WINUTIL\NextStart\Themes\Mechanic\Clockchime.wav
+SoundFx09=
+SoundFx10=
+SoundFx11=
+SoundFx12=C:\WINUTIL\NextStart\Themes\Mechanic\EmptyRecycler.wav
+SoundFx13=C:\WINUTIL\NextStart\Themes\Mechanic\DropInRecycler.wav

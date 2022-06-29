@@ -1,0 +1,18 @@
+[WORKSHELF]
+ClockSoundFolder=C:\WINUTIL\NextStart\Themes\Music\
+ClockSoundThemeName=Music
+ClockSoundThemeAuthor=Winstep Software Technologies
+SoundFx00=C:\WINUTIL\NextStart\Themes\Music\Collapse.wav
+SoundFx01=C:\WINUTIL\NextStart\Themes\Music\uncollapse.wav
+SoundFx02=C:\WINUTIL\NextStart\Themes\Music\Switch.wav
+SoundFx03=
+SoundFx04=
+SoundFx05=
+SoundFx06=
+SoundFx07=C:\WINUTIL\NextStart\Themes\Music\Setup.wav
+SoundFx08=C:\WINUTIL\NextStart\Themes\Music\Clockchime.wav
+SoundFx09=C:\WINUTIL\NextStart\Themes\Music\Clocktick.wav
+SoundFx10=
+SoundFx11=
+SoundFx12=C:\WINUTIL\NextStart\Themes\Music\Empty.wav
+SoundFx13=C:\WINUTIL\NextStart\Themes\Music\Drop.wav

@@ -1,0 +1,33 @@
+
+   <!DOCTYPE html>
+   <html>
+      <head>
+         <title>Validation</title>
+     <style>
+         input[type="submit"]{
+           border: 2px solid black;
+           border-radius: 3px;
+         }
+         span{
+             margin-top: 12px;
+         }
+         
+     </style>
+       <script>
+       function validate() {
+           var num = document.myform.num.value;
+           if (isNaN(num) || num < 1 || num > 10) {
+               document.getElementById("numloc").innerHTML = "Dữ liệu sai!";
+               return false;
+           } else {
+               document.getElementById("numloc").innerHTML = "Dữ liệu đúng!";
+               return false;
+           }
+       }
+   </script>
+   <form name="myform" onsubmit="return validate()">
+     Number: <input type="text" name="num">
+     <input type="submit" value="Submit">
+     <span id="numloc" style="display: block;"></span><br> 
+   </form>
+   

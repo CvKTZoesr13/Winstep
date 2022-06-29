@@ -1,0 +1,16 @@
+[WORKSHELF]
+WANDAAdvs=True
+WANDATransparency=False
+WANDABitmapFolder=C:\Winutil\NextStart\Themes\Brisa\
+WANDAThemeName=Brisa
+WANDAThemeAuthor=Winstep Software Technologies
+WANDAShowIcon=True
+WANDAXpos=23
+WANDAYpos=22
+WANDAIconSize=2
+WANDACustomAnimation=False
+WANDANoOfFrames=0
+WANDAFrameInterval=0
+WANDAShowOverlay=True
+WANDAOverlayXpos=8
+WANDAOverlayYpos=6

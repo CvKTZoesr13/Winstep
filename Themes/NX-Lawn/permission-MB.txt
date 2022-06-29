@@ -1,0 +1,30 @@
+; Created By John T. Folden (john.t.folden@thejagcompany.com) 10.27.2006
+; For use with NeXuS by WinSTEP Software Technologies.
+;
+; NOTE: PLEASE ASK FOR PERMISSION AND GIVE CREDIT WHERE CREDIT IS DUE IF YOU 'BORROW' ANY PORTION
+; OF THIS THEME.
+
+
+This theme is based on a work originally created by Matthew Bice for a great Macintosh dock called A-Dock. He has graciously provided me with his permission to port it.
+
+John T. Folden
+
+
+----------
+
+
+	From: 	  matthew@iheartny.com
+	Subject: 	Re: A-Dock Themes
+	Date: 	October 26, 2006 4:51:23 PM EDT
+	To: 	  nedloftj@mac.com
+
+Hi John,
+
+Sure! As long as you credit me somewhere. I'd love to see it when you're done.
+
+Matthew
+
+----------
+
+;The skin itself is owned by the copyright holder (the skin author) and use of his or her's intellectual property materials is expressly forbidden without the consent of the skin author.
+;When in doubt, contact...
